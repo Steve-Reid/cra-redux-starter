@@ -18,12 +18,12 @@ Inside the project directory run using `npm` or `yarn`:
 ### Run
 
 ```bash
-yarn dev
+yarn start
 # or
-npm run dev
+npm run start
 ```
 
-Entry point `pages/index.tsx`.
+Entry point `src/index.tsx`.
 
 ## Create React App Override - [CRACO](https://github.com/dilanx/craco)
 **C**reate **R**eact **A**pp **C**onfiguration **O**verride is a configuration layer for create-react-app.
